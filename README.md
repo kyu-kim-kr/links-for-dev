@@ -13,3 +13,4 @@
 
 [개발자와 명상](https://blog.shiren.dev/2020-03-24-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80%EB%AA%85%EC%83%81/)
 페르시아의 왕자 : 개발일지
+[블로그 구축하기 (설명이 잘되어있음)](https://ialy1595.github.io/post/blog-construct-1/)
