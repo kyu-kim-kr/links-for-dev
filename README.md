@@ -18,3 +18,5 @@
 [블로그 구축하기 (설명이 잘되어있음)](https://ialy1595.github.io/post/blog-construct-1/)
 
 [직관적인 데이터베이스 만드는 법 & 왜 데이터베이스?](https://lucas.codesquad.kr/main/course/2021-Masters-CS-10/Day9-PC%EB%B0%A9-%EA%B4%80%EB%A6%AC%EC%9E%90/%EC%88%98%EC%97%85-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%A3%8C)
+
+[리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
