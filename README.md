@@ -1,3 +1,14 @@
+## To-do
+
+- GC 공부하기 [링크](https://d2.naver.com/helloworld/1329)
+
+- 링크드 리스트 문서로 정리 [링크](https://youtu.be/WwfhLC16bis)
+
+- 테스트케이스 공부
+
+- Collections 공부
+
+
 ## links-for-dev
 [<아직 취준생인 분들에게 드리는 팁>](https://www.facebook.com/story.php?story_fbid=3647131878703097&id=100002189626578)
 
