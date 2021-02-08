@@ -8,6 +8,8 @@
 
 - Collections 공부
 
+- 자바 이 정도 공부하면 다른 책읽어도 될듯? [링크](https://lucas.codesquad.kr/main/course/%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%EB%B0%B1%EC%97%94%EB%93%9C-Java-%ED%81%B4%EB%9E%98%EC%8A%A4-2021/Java-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0/learn-java-basic)
+
 
 ## links-for-dev
 [<아직 취준생인 분들에게 드리는 팁>](https://www.facebook.com/story.php?story_fbid=3647131878703097&id=100002189626578)
