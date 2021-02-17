@@ -1,5 +1,9 @@
 ## To-do
 
+1. 루카스에 있는 자바 공부할 거리 공부하기
+
+2. 인프런 김영한님 스프링 입문 강의 (14강/28강 (50.00%) | 시간 : 140분/321분) [링크](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+
 - GC 공부하기 [링크](https://d2.naver.com/helloworld/1329)
 
 - 링크드 리스트 문서로 정리 [링크](https://youtu.be/WwfhLC16bis)
