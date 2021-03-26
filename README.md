@@ -45,6 +45,8 @@
 
 [스프링 공식 튜토리얼](https://spring.io/guides/tutorials/rest/)
 
+[이력서 만들때 읽으면 좋은 질문사항들]https://brunch.co.kr/@greenful/112
+
 
 
 ## 방통대
