@@ -51,3 +51,6 @@
 
 ## 방통대
 [한국방송통신대학교 자주하는 질문 모음집](https://html6.tistory.com/195)
+
+## 깃
+[원격에서 풀했을 때 다른 브랜치 확인 & checkout 방법 그리고 rmeote 에 대한](https://cjh5414.github.io/get-git-remote-branch/)
